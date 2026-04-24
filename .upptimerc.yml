@@ -8,9 +8,9 @@ sites:
   - name: Auburn Tire Center
     url: https://auburntirecenter.com
   - name: Auburn Tires N Wheels (www)
-    url: https://www.auburntireswheels.com
+    url: https://www.auburntireswheels.net
   - name: Auburn Tires N Wheels
-    url: https://auburntireswheels.com
+    url: https://auburntireswheels.net
   - name: IPv6 test
     url: forwardemail.net
     port: 80
