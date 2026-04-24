@@ -16,13 +16,14 @@ sites:
   - name: X Tires & Auto Service
     url: https://xautocare.net
   - name: Max Tires (www)
-    url: https:/www.maxtires.repair
+    url: https://www.maxtires.repair
   - name: Max Tires
-    url: https:/maxtires.repair
+    url: https://maxtires.repair
   - name: Aplus Tires (www)
     url: https://www.aplustireswheels.com
   - name: Aplus Tires
     url: https://aplustireswheels.com
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
