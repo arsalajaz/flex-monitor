@@ -11,7 +11,18 @@ sites:
     url: https://www.auburntireswheels.net
   - name: Auburn Tires N Wheels
     url: https://auburntireswheels.net
-
+  - name: X Tires & Auto Service (www)
+    url: https://www.xautocare.net
+  - name: X Tires & Auto Service
+    url: https://xautocare.net
+  - name: Max Tires (www)
+    url: https:/www.maxtires.repair
+  - name: Max Tires
+    url: https:/maxtires.repair
+  - name: Aplus Tires (www)
+    url: https://www.aplustireswheels.com
+  - name: Aplus Tires
+    url: https://aplustireswheels.com
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -19,8 +30,8 @@ status-website:
   baseUrl: /flex-monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: ""
+  introMessage: ""
   navbar:
     - title: Status
       href: /
