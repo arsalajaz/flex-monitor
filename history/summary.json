@@ -116,9 +116,9 @@
     "url": "https://www.maxtiresauto.repair",
     "icon": "https://icons.duckduckgo.com/ip3/www.maxtiresauto.repair.ico",
     "slug": "max-tires-www",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -127,16 +127,18 @@
     "timeWeek": 558,
     "timeMonth": 536,
     "timeYear": 547,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-24": 0
+    }
   },
   {
     "name": "Max Tires",
     "url": "https://maxtiresauto.repair",
     "icon": "https://icons.duckduckgo.com/ip3/maxtiresauto.repair.ico",
     "slug": "max-tires",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -145,7 +147,9 @@
     "timeWeek": 637,
     "timeMonth": 714,
     "timeYear": 672,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-10-24": 0
+    }
   },
   {
     "name": "Aplus Tires (www)",
